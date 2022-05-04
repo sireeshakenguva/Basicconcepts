@@ -70,6 +70,16 @@ public class Basicconcepts {
 	System.out.println(s);
 	s = "abcde";
 	System.out.println(s);
+	
+	int x = 10;
+	int y = 20;
+	boolean b1 = x == 10;// true
+	System.out.println(b1);
+	b1 = x == 20 && y == 20; // false && true
+	System.out.println(b1);// false
+	
+	
+	
 	}
 	}
 
